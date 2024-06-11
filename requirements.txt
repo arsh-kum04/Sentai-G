@@ -1,0 +1,10 @@
+streamlit>=0.91.0
+transformers==4.29.1
+praw==7.7.1
+scipy==1.10.1
+pandas==1.5.3
+matplotlib==3.7.1
+pytz==2023.3
+googletrans==3.1.0a0
+plotly==5.13.0
+torch==2.0.1
